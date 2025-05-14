@@ -92,12 +92,15 @@ const Slideshow = () => {
           <div className="relative w-full flex justify-center items-center 
   min-h-[200px] sm:min-h-[300px] md:min-h-[350px] lg:min-h-[400px] xl:min-h-[700px]">
   <Link to={slide.link}>
-    <img
-      src={slide.src}
-      alt={`Slide ${index + 1}`}
-      className="w-full h-full object-cover rounded-xl shadow-lg xl:w-[1880px] xl:h-[700px]"
-      loading="lazy"
-    />
+  <img
+  src={slide.src}
+  alt={`Slide ${index + 1}`}
+  className="w-full h-full object-cover rounded-xl shadow-lg 
+             lg:w-[851px] lg:h-[316px] 
+             xl:w-[1880px] xl:h-[700px]"
+  loading="lazy"
+/>
+
   </Link>
 </div>
 
