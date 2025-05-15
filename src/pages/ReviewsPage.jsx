@@ -87,7 +87,41 @@ const reviews = [
     text: "I had a fantastic experience at Dulha House for my wedding sherwani. Arsalan Shafiq was incredibly helpful and made the entire process smooth and enjoyable. The sherwani was absolutely stunning, and I received so many compliments. Highly recommend Dulha House and especially seeking out Arsalan!",
     img: 'https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/pak.jpg',
   },
- 
+ {
+    name: 'Sidra Sanam',
+    location: ' United Kingom ',
+    stars: 5,
+    text: " Had a great experience with them .last year I made my husband's wedding sherwani fitting quality and order time was 5 star .this time I ordered again party wear for my family and waist coat brother Dawood served me twice and he make the order in really short notice and delivered it in one day locally in the time of war .very happy with the service and quality . Definitely recommend it 👌",
+    img: 'https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/UK.png',
+  },
+  {
+    name: 'Zain Ur Rehman ',
+    location: 'Gujranwala  - Pakistan',
+    stars: 5,
+    text: " It was very Good. My order was on urgent basis and Dulha House team delivered me before time. Excellent services and skilled staff. Especially Shah G. Great person. Highly recommend 👌 ",
+    img: 'https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/pak.jpg',
+  },
+  {
+    name: 'Mrs Anwar ',
+    location: ' Lonodn, United Kingdom ',
+    stars: 5,
+    text: "Jazakallah it was beyond beautiful my brother looked like royalty. Ameen thank you so much, allah mia bless you and put Barkat in your business you have been lovely to speak to, kudos to your mother who raised a lovely son ",
+    img: 'https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/UK.png',
+  },
+  {
+    name: ' Inam Zahoor',
+    location: ' Ireland ',
+    stars: 5,
+    text: " Not the first time but these guys are keeping their standards high as always.Fully satisfied and I would suggest people to come here for the best experience.  ",
+    img: 'https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/flag-ireland-emoji-2048x1279-dze5vo5v.png',
+  },
+   {
+    name: '  Sana Khan',
+    location: ' Montreal, Canada ',
+    stars: 5,
+    text: " Salam, i want to give my review. Number nahi mil raha aapka but laazmi mene send karna tha aapko message.\n\nFirst of all it was a great pleasure to deal with dulha house. I ordered through WhatsApp. Dawood bhai se meri tafseel se baat huwi. Unho ne sizing ke mutabik mujhe videos send ki. Measurements mene khud li, bilkull perfect tha sab kuch. He also showed me different options for qulla when i mentioned. And i also wanted to let some things custom made. Itna acha inho ne mujhe samjhaya, har ek cheez saath saath me dikhayi, even pocketsquares mere liye khud market tak gaye lene. Their biggest concern was the sizing measurements. But alhamdoulillah it came out perfectly. Saath me mene shoes bhi liye the. Shoes were also very beautiful, nice quality.\n\nf you are confused about where you should go for your menswear for the weddingdays, pleaseeeeee i highly recommend contacting dulhahouse. They are professional and sweet. They handle everything with great care and love. You will not regret.  ",
+    img: 'https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/can.png',
+  },
 
 
 
