@@ -7,48 +7,48 @@ const Accessories = () => {
     {
         id: 130,
         name: "‘Hatf’ Shoes",
-        image: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RANJHA-SHOES/shoe%201%20(1).jpeg",
-        hoverImage: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RANJHA-SHOES/shoe%201%20(2).jpeg",
+        image: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Accersiores-SHOES/shoe%201%20(1).jpeg",
+        hoverImage: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Accersiores-SHOES/shoe%201%20(4).jpeg",
       },
        {
         id: 131,
         name: "‘Shaheen’ Shoes",
-        image: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RANJHA-SHOES/shoe%202%20(1).jpeg",
-        hoverImage: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RANJHA-SHOES/shoe%202%20(2).jpeg",
+        image: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Accersiores-SHOES/shoe%202%20(1).jpeg",
+        hoverImage: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Accersiores-SHOES/shoe%202%20(4).jpeg",
       },
        {
       
         id: 132,
         name: "‘Nasr’ Shoes",
-        image: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RANJHA-SHOES/shoe%203%20(1).jpeg",
-        hoverImage: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RANJHA-SHOES/shoe%203%20(2).jpeg",
+        image: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Accersiores-SHOES/shoe%203%20(1).jpeg",
+        hoverImage: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Accersiores-SHOES/shoe%203%20(4).jpeg",
       }, 
 
       {
         id: 133,
         name: "‘Fateh’ Shoes",
-        image: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RANJHA-SHOES/shoe%204%20(1).jpeg",
-        hoverImage: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RANJHA-SHOES/shoe%204%20(2).jpeg",
+        image: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Accersiores-SHOES/shoe%204%20(1).jpeg",
+        hoverImage: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Accersiores-SHOES/shoe%204%20(4).jpeg",
       },
 
        {
         id: 134,
         name: "‘Babar’ Khussa",
-        image: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RANJHA-SHOES/shoe%205%20(1).jpeg",
-        hoverImage: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RANJHA-SHOES/shoe%205%20(2).jpeg",
+        image: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Accersiores-SHOES/shoe%205%20(1).jpeg",
+        hoverImage: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Accersiores-SHOES/shoe%205%20(4).jpeg",
       },
       
     {
       id: 135,
       name: "‘Raad’ Khussa (Saleem-Shahi)",
-      image: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RANJHA-SHOES/shoe%206%20(2).jpeg",
-      hoverImage: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RANJHA-SHOES/shoe%206%20(1).jpeg",
+      image: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Accersiores-SHOES/shoe%206%20(1).jpeg",
+      hoverImage: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Accersiores-SHOES/shoe%206%20(4).jpeg",
     },
     {
       id: 136,
       name: "‘Harbay’ Khussa (Saleem-Shahi)",
-      image: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RANJHA-SHOES/shoe%207%20(2).jpeg",
-      hoverImage: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RANJHA-SHOES/shoe%207%20(1).jpeg",
+      image: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Accersiores-SHOES/shoe%207%20(2).jpeg",
+      hoverImage: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Accersiores-SHOES/shoe%207%20(4).jpeg",
     },
    
   ];
