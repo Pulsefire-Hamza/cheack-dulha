@@ -2213,6 +2213,31 @@ const ProductDetail = () => {
       category: "Accessories",
 
     },
+    //////////////////////////////////////////////NEW COLLECTION 138 START////////////////////
+     {
+      id: 138,
+      name: "‘Babar’ Sherwani",
+      description: (
+        <p className="text-gray-950 mt-4 text-[12px] leading-[20px] text-left tracking-normal font-josefin">
+          <span className="font-bold">Fabric:</span> Self Embroidered Kundan Zari<br />
+                    <span className="font-bold">Embellishment:</span> Hand Embroidered Collar<br />
+                    <span className="font-bold">Buttons:</span>Hidden Placket<br />
+                    <span className="font-bold">Colour:</span> Coffee Gold<br />
+                    <span className="font-bold">Inner Suit:</span>Gold Pakistani Raw Silk<br />
+
+
+
+        </p>
+      ),
+      images: [ 
+       "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RanjhaCollection/pro%201%20%20(1).jpeg",
+       "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RanjhaCollection/pro%201%20%20(3).jpeg",
+       "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RanjhaCollection/pro%201%20%20(4).jpeg",
+       "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RanjhaCollection/pro%201%20%20(2).jpeg"
+      ],
+      category: "Accessories",
+
+    },
   ];
 
   const product = products.find((prod) => prod.id === parseInt(id));
