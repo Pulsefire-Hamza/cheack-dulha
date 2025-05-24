@@ -4,6 +4,13 @@ import { FaWhatsapp } from "react-icons/fa";
 
 const Sherwani = () => {
   const products = [
+      {
+      id: 138,
+      name: "‘Babar’ Sherwani",
+      image: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RanjhaCollection/pro%201%20%20(3).jpeg",
+      hoverImage: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RanjhaCollection/pro%201%20%20(2).jpeg",
+      category: "sherwani",
+    },
     {
       id: 26,
       name: "Skin Gold Short Sherwani",
