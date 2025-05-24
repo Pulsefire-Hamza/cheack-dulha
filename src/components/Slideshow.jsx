@@ -27,12 +27,12 @@ const Slideshow = () => {
   ];
 
   const mobileSlides = [
+    { src: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Slideshow/mob%201st.jpeg", link: "/product/138" },
     { src: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Slideshow/mob%20slideshow%20(7).jpeg", link: "/product/137" },
-    { src: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Slideshow/mob%20slideshow%20(1).jpeg", link: "/product/222" },
     { src: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Slideshow/mob%20slideshow%20(3).jpeg", link: "/product/8" },
-    { src: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Slideshow/mob%20slideshow%20(2).jpeg", link: "/product/103" },
-    { src: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Slideshow/mob%20slideshow%20(5).jpeg", link: "/product/20" },
+    { src: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Slideshow/mob%20slideshow%20(1).jpeg", link: "/product/222" },
     { src: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Slideshow/mob%20slideshow%20(4).jpeg", link: "/product/269" },
+    { src: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Slideshow/mob%20slideshow%20(5).jpeg", link: "/product/20" },
     { src: "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/Slideshow/mob%20slideshow%20(6).jpeg", link: "/product/14" },
   ];
 
