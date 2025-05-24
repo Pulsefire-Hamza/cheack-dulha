@@ -2235,7 +2235,7 @@ const ProductDetail = () => {
        "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RanjhaCollection/pro%201%20%20(4).jpeg",
        "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RanjhaCollection/pro%201%20%20(1).jpeg"
       ],
-      category: "Accessories",
+      category: "nafasatvol2",
 
     },
   ];
