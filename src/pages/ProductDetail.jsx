@@ -2230,10 +2230,10 @@ const ProductDetail = () => {
         </p>
       ),
       images: [ 
-       "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RanjhaCollection/pro%201%20%20(1).jpeg",
+       "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RanjhaCollection/pro%201%20%20(2).jpeg",
        "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RanjhaCollection/pro%201%20%20(3).jpeg",
        "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RanjhaCollection/pro%201%20%20(4).jpeg",
-       "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RanjhaCollection/pro%201%20%20(2).jpeg"
+       "https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RanjhaCollection/pro%201%20%20(1).jpeg"
       ],
       category: "Accessories",
 
