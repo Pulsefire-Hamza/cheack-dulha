@@ -152,6 +152,8 @@ const products = [
   { id: 134, name: '‘Babar’ Khussa', image: 'https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RANJHA-SHOES/shoe%205%20(1).jpeg' },
   { id: 135, name: '‘Raad’ Khussa (Saleem-Shahi)', image: 'https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RANJHA-SHOES/shoe%206%20(2).jpeg' },
   { id: 136, name: '‘Harbay’ Khussa (Saleem-Shahi)', image: 'https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RANJHA-SHOES/shoe%207%20(2).jpeg' },
+  { id: 137, name: '‘Fateh-1’ Waist Coat', image: 'https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/allwaistcoat/Fateh%201%20waist%20coat%20(1).jpeg' },
+  { id: 138, name: '‘Babar’ Sherwani', image: 'https://dataofclient.nyc3.cdn.digitaloceanspaces.com/DULHAHOUSE/RanjhaCollection/pro%201%20%20(1).jpeg' },
 
 
   
